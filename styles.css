@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+}
+
+
+.intro {
+  background-color: rgb(97, 109, 131);
+  padding: 1.5rem;
+  
+}
+
+.light_text {
+  color:azure;
+}
+
+#visit {
+  background-color: rgb(51, 69, 97);
+}
+
+li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.flex {
+  display:flex
+}
+
+.flex_column {
+  flex-direction: column;
+}
+
+.flex_between {
+  justify-content: space-between;
+}
+
+footer {
+  background-color: rgb(13, 26, 45);
+}
+
