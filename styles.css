@@ -4,19 +4,37 @@ body {
   text-align: center;
 }
 
+header > button {
+  color: rgb(18, 13, 113);
+}
 
 .intro {
   background-color: rgb(103, 119, 140);
-  padding: 1.5rem;
-  
+  padding: 1rem 5rem 5rem 5rem;
+  margin: -.5rem;
 }
 
 .light_text {
   color:azure;
 }
 
+h1 {
+  font-size: 2.5rem;
+}
+
 #visit {
-  background-color: rgb(51, 69, 97);
+  background-color: rgb(221, 226, 233);
+  padding-left: 2rem;
+  padding-right: 2rem;
+  margin-left: -.5rem;
+  margin-right: -.5rem;
+}
+
+button {
+  padding: 1rem;
+  background-color: rgb(221, 226, 233);
+  font-weight: bolder;
+  border: solid 1px rgb(112, 112, 112);
 }
 
 li {
@@ -43,6 +61,21 @@ li {
 .small_title {
   color: rgb(76, 93, 109);
   font-weight: bolder;
+
+}
+
+.info_block {
+  padding: 2rem;
+  
+}
+
+.block {
+  display: flex;
+}
+
+
+#volunteer {
+  padding: 4rem 10rem 5rem 10rem;
 
 }
 
